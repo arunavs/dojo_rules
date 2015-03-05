@@ -5,3 +5,4 @@
 * Title = Software Engineer
 * Favorite Code School Path = iOS
 * Deadly Skills = Git
+* Rebase
